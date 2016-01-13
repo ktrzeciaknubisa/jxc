@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/jxcore/jxc/issues"
   },
-  "homepage": "https://github.com/jxcore/jxc#readme",
-  "dependencies": {
-    "jxtools": "git+https://github.com/ktrzeciaknubisa/jxtools.git"
-  }
+  "homepage": "https://github.com/jxcore/jxc#readme"
 }
