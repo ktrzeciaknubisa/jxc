@@ -36,6 +36,9 @@ var _run = function() {
       jxcore.utils.console.error(err);
     if (txt)
       jxcore.utils.console.log(txt);
+
+    if (err)
+      process.exit(1);
   });
 };
 
